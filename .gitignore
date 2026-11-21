@@ -1,0 +1,35 @@
+# Design artifacts
+_paper
+_bmad
+
+# AI Agent files
+.claude
+.codex
+.cursor
+.vscode
+.agent
+.gemini
+
+# Elixir and Phoenix build artifacts
+/_build/
+/cover/
+/deps/
+/doc/
+/.fetch
+erl_crash.dump
+*.ez
+/tmp/
+dia-*.tar
+
+# Static asset build outputs
+/priv/static/assets/
+/priv/static/cache_manifest.json
+npm-debug.log
+/assets/node_modules/
+
+# SQLite database files
+*.db
+*.db-*
+
+# Generated local sample DICOMs
+/priv/sample_dicoms/
